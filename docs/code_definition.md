@@ -3,6 +3,7 @@ title: Code Definition
 layout: default
 ---
 
+[Index](index.md)
 # Code Definition
 
 **仕様コードはプロジェクトの中で共通です。**  
