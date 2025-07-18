@@ -9,5 +9,4 @@ layout: default
 
 # Link
 
-## For Contributors
 [Code Definition](code_definition.md)

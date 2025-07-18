@@ -3,7 +3,6 @@ title: Code Definition
 layout: default
 ---
 
-[Index](index.md)
 # Code Definition
 
 **仕様コードはプロジェクトの中で共通です。**  
@@ -38,3 +37,7 @@ E-N-0101-2.0.3 ... エンジニアに関わるver2.0.3の非機能要件の101�
 E-F-0001-0.0.0 ... Frontend要件  
 E-F-2001-0.0.0 ... Backend要件  
 E-F-4001-0.0.0 ... API Server要件
+
+# Links
+
+[Index](index.md)
