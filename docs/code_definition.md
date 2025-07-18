@@ -1,11 +1,9 @@
 ---
-title: code_definition
+title: Code Definition
 layout: default
 ---
 
 # Code Definition
-
-## 仕様コードの定義
 
 **仕様コードはプロジェクトの中で共通です。**  
 **開発を進める上では、IssueやPull Requestを仕様コードで管理することになります。**
@@ -30,7 +28,7 @@ layout: default
 | API Server | 4000 ~ 5999  |
 | Other      | 6000 ~ 7999  |
 
-## コード例
+# Code Example
 
 S-F-0001-0.0.1 ... システムに関わるのver.0.0.1の機能要件の1番  
 A-F-0010-1.1.2 ... 管理者に関わるver1.1.2の機能要件の10番  
