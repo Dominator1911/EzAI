@@ -2,6 +2,9 @@
 title: Code Definition
 layout: default
 ---
+# Project repository
+
+[EzAI Frontend](https://github.com/Dominator1911/EzAI-Frontend) / [EzAI Backend](https://github.com/Dominator1911/EzAI-Backend) / [EzAI Trainer](https://github.com/Dominator1911/EzAI-Trainer) / [EzAI API Server](https://github.com/Dominator1911/EzAI-API-Server)
 
 # Code Definition
 
@@ -38,13 +41,6 @@ E-N-0101-2.0.3 ... エンジニアに関わるver2.0.3の非機能要件の101�
 E-F-0001-0.0.0 ... Frontend要件  
 E-F-2001-0.0.0 ... Backend要件  
 E-F-4001-0.0.0 ... Trainer要件
-
-# Project repository
-
-[EzAI Frontend](https://github.com/Dominator1911/EzAI-Frontend)  
-[EzAI Backend](https://github.com/Dominator1911/EzAI-Backend)  
-[EzAI Trainer](https://github.com/Dominator1911/EzAI-Trainer)  
-[EzAI API Server](https://github.com/Dominator1911/EzAI-API-Server)
 
 # Links
 
