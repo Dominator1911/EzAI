@@ -4,25 +4,25 @@ layout: default
 ---
 # Project repository
 
-[EzAI Frontend](https://github.com/Dominator1911/EzAI-Frontend) / [EzAI Backend](https://github.com/Dominator1911/EzAI-Backend) / [EzAI Trainer](https://github.com/Dominator1911/EzAI-Trainer) / [EzAI API Server](https://github.com/Dominator1911/EzAI-API-Server)
+[Frontend](https://github.com/Dominator1911/EzAI-Frontend) / [Backend](https://github.com/Dominator1911/EzAI-Backend) / [Trainer](https://github.com/Dominator1911/EzAI-Trainer) / [API Server](https://github.com/Dominator1911/EzAI-API-Server)
 
 # Code Definition
 
 **仕様コードはプロジェクトの中で共通です。**  
 **開発を進める上では、IssueやPull Requestを仕様コードで管理することになります。**
 
-| Code Header | Role     | Code Example     |
-|-------------|----------|------------------|
-| S           | System   | S-?-nnnn-version |
-| A           | Admin    | A-?-nnnn-version |
-| E           | Engineer | E-?-nnnn-version |
-| U           | User     | U-?-nnnn-version |
-| O           | Other    | O-?-nnnn-version |
+| Code Header | Role     | Code Example       |
+|-------------|----------|--------------------|
+| S           | System   | S-?-number-version |
+| A           | Admin    | A-?-number-version |
+| E           | Engineer | E-?-number-version |
+| U           | User     | U-?-number-version |
+| O           | Other    | O-?-number-version |
 
-| Func Header | Meaning        | Code Example     |
-|-------------|----------------|------------------|
-| F           | Functional     | S-F-nnnn-version |
-| N           | Non Functional | S-N-nnnn-version |
+| Func Header | Meaning        | Code Example       |
+|-------------|----------------|--------------------|
+| F           | Functional     | S-F-number-version |
+| N           | Non Functional | S-N-number-version |
 
 | Scope      | Number Range |
 |------------|--------------|
